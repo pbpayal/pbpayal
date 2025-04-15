@@ -4,7 +4,7 @@
 -  Have experinece in pipeline orchestration  (Snakemake) and cloud platforms (AWS, DNA Nexus, Dragen).
 -  Experienced in mentoring, cross-disciplinary collaboration, and driving genomic data analysis to meet regulatory and research standards in genomics.
 - 📫 pbpayal42@gmail.com
-- ORCHID - https://orcid.org/0000-0003-1599-0679
+
 
 <!---
 pbpayal/pbpayal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
